@@ -193,7 +193,7 @@ h3 {
 /* ***************************************************** */
 
 .stats {
-  background: url("../public/assets/yoga-web-template-68.png"),
+  background: url("/public/assets/yoga-web-template-68.png"),
     linear-gradient(#a3bac9fa, #f2f9f4, #2e2525, #070808fa);
   background-color: rgba(255, 255, 255, 0.89);
   @apply h-full w-full flex flex-col justify-center items-center;
